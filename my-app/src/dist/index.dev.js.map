@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["state"],"mappings":";;AAAA;;AACA;;;;AAEA,8BAAiBA,iBAAjB","sourcesContent":["import { renderEntariTree } from './render';\nimport state from './Redux/State';\n\nrenderEntariTree(state);"],"file":"index.dev.js"}

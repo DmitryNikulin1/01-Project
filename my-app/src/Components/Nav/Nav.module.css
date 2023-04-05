@@ -1,0 +1,18 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(196, 0, 150);
+  padding: 20px;
+}
+
+.item {
+  color: rgb(6, 254, 250);
+  text-decoration: none;
+}
+
+.active {
+  color: rgb(251, 255, 5);
+}
+
+.friendsItem {
+  display: block;
+}
